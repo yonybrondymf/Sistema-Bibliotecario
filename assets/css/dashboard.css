@@ -1,0 +1,9 @@
+.navbar .nav li.info-user {
+    color: #fff;
+    padding: 15px 10px;
+}
+
+.navbar .nav li a#logout img {
+    width: 20px;
+    height: 20px;
+}
