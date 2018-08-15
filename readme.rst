@@ -19,7 +19,7 @@ MODULOS
 DEMO
 **************************
 
-Haga clik `aqui <http://localhost/sistemabibliotecario/cpanel>`_ para interactuar con el sistema.
+Haga clik `aqui <http://codigosanha.com/sistemabibliotecario/cpanel>`_ para interactuar con el sistema.
 
 Utilice los siguientes datos para acceder al sistema:
 
